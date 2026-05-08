@@ -23,7 +23,7 @@ First 1 out of 1 possibilities:
 
 
 ## Statistics
-For some statistics (letter frequency, etc.) see statistics.ipynb.
+For some statistics (letter frequency, etc.) see `statistics.ipynb`.
 
 
 ## Word lists
