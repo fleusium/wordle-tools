@@ -1,0 +1,4 @@
+Update wordle_list_raw.txt from here:
+https://www.fiveforks.com/wordle/
+
+Then run wordle_list_parse.py
